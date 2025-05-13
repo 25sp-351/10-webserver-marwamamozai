@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/marweezzy/OPS-Spring25/10-webserver-marwamamozai",
+      "program": "/Users/marweezzy/OPS-Spring25/10-webserver-marwamamozai/build/Debug/outDebug"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+# Ign object files and  executable
+*.o
+server
+
+# Ign directory containing static files if has temporary files
+/static/*.log
+
+# Ign other temporary files that might be created by the editor
+*~
+*.swp
+
+# Ign backup files
+*.bak
+
+# Ign compiled files
+*.out
